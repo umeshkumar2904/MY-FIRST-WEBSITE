@@ -10,8 +10,8 @@ It is designed for freelancers, agencies, and small businesses to showcase servi
 ---
 
 ## 🚀 Live Demo
-🔗 https://traced.netlify.app  
-*(Replace this link with your actual deployed URL)*
+🔗 https://visionary-faun-3d0990.netlify.app/
+
 
 ---
 
